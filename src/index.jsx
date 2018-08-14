@@ -11,11 +11,11 @@ const defaultProps = {
     styles: {
         label: {
             fontFamily: 'Arial',
-            color: 'blue'
+            color: 'grey'
         },
         input: {
             background: '#ddd',
-            border: '1px solid red'
+            border: '2px solid blue'
         }
     }
 }
