@@ -10,12 +10,12 @@ const propTypes = {
 const defaultProps = {
     styles: {
         label: {
-            fontFamily: 'Comic Sans MS',
-            color: 'green'
+            fontFamily: 'Arial',
+            color: 'grey'
         },
         input: {
             background: '#ddd',
-            border: '1px solid red'
+            border: '2px solid blue'
         }
     }
 }
