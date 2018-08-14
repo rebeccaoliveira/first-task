@@ -10,8 +10,8 @@ const propTypes = {
 const defaultProps = {
     styles: {
         label: {
-            fontFamily: 'Comic Sans MS',
-            color: 'green'
+            fontFamily: 'Arial',
+            color: 'blue'
         },
         input: {
             background: '#ddd',
